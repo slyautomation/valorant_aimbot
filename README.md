@@ -5,4 +5,5 @@ The aimbot calculates target positions, adjusts field of view (FOV), and impleme
 
 The tutorial concludes with a demonstration and a mention of future videos exploring triggerbot implementation. The script's code is made available on GitHub for experimentation.
 
-https://youtu.be/PrlibwyLrL0
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PrlibwyLrL0/0.jpg)](https://youtu.be/PrlibwyLrL0)
+
