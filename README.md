@@ -21,4 +21,6 @@ Use this to detemine the upoint and lpoint in the script:
 
 ![hsv_color_spectrum](https://github.com/slyautomation/valorant_aimbot/assets/81003470/62df17aa-fdf5-4c97-ac7f-350874852873)
 
+Credits to: https://github.com/mustaffxx/usb-host-shield-mouse for usb host shield thats compatible for razar, logitech and other mouses.
+
 
