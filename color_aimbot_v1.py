@@ -24,8 +24,23 @@ PyArduinoBot_v2.FPS = True
 # print("monitor scale:", scalex,scaley)
 
 print(PyArduinoBot_v2.num_steps)
-lpoint = [135, 35, 20]
-upoint = [155, 255, 255]
+
+# ====== CHANGE THESE ======
+port = 'COM12'
+color_to_use = 'red'
+# ==========================
+
+if color_to_use == 'purple':
+    lpoint = [135, 35, 20]
+    upoint = [155, 255, 255]
+    
+if color_to_use == 'yellow':
+    lpoint = [22, 46, 255]
+    upoint = [38, 255, 255]
+
+if color_to_use == 'red':
+    lpoint = [0, 95, 95]
+    upoint = [4, 235, 255]
 
 monitor = {"top": 0, "left": 0, "width": 1920, "height": 1080}
 #monitor = {"top": 300, "left": 650, "width": 600, "height":500}
@@ -131,7 +146,7 @@ def detect_color():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    global arduino
+    global arduino, port
     port = 'COM5'
     baudrate = 115200
     arduino = serial.Serial(port=port, baudrate=baudrate, timeout=.1)
