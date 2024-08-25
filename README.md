@@ -9,14 +9,6 @@ The aimbot calculates target positions, adjusts field of view (FOV), and impleme
 
 The tutorial concludes with a demonstration and a mention of future videos exploring triggerbot implementation. The script's code is made available on GitHub for experimentation.
 
-Click on the image to watch the video tutorial on how the code works:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PrlibwyLrL0/0.jpg)](https://youtu.be/PrlibwyLrL0)
-
-Also check out this youtube video on setting with arduino and how the code works to send and recieve data:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-Injv0w0z5M/0.jpg)](https://youtu.be/-Injv0w0z5M)
-
 Use this to detemine the upoint and lpoint in the script:
 
 ![hsv_color_spectrum](https://github.com/slyautomation/valorant_aimbot/assets/81003470/62df17aa-fdf5-4c97-ac7f-350874852873)
