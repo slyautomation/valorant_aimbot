@@ -1,4 +1,4 @@
-# valorant_aimbot
+# color_aimbot
 This tutorial introduces an aimbot script designed for a first-person shooter game, specifically tailored for use in games like Valorant. The script utilizes color detection to identify enemy structures, represented by purple hue outlines.
 
 Full written step by step guide on the code located here: https://www.slyautomation.com/blog/valorant-aimbot-with-color-detection-with-python/
